@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: cin
+# key: cin
+# --
+k
+cin >> $0;
