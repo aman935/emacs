@@ -2,7 +2,17 @@
 # name: CP-Template
 # key: cptemp
 # --
-#include<bits/stdc++.h>
+
+#include<iostream>
+#include<vector>
+#include<algorithm>
+#include<queue>
+#include<string>
+#include <deque>
+#include<math.h>
+#include<stack>
+#include<map>
+#include<set>
 using namespace std;
 
 int main(){

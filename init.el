@@ -35,7 +35,7 @@
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
    (quote
-    (ac-c-headers avy-flycheck aggressive-fill-paragraph aggressive-indent electric-operator electric-case electric-spacing iedit yasnippet theme-looper myterminal-controls meta-presenter which-key dired-launch material-theme auto-complete buffer-move powerline ace-window ace-jump-mode multiple-cursors helm))))
+    (auto-complete-c-headers ac-c-headers avy-flycheck aggressive-fill-paragraph aggressive-indent electric-operator electric-case electric-spacing iedit yasnippet theme-looper myterminal-controls meta-presenter which-key dired-launch material-theme auto-complete buffer-move powerline ace-window ace-jump-mode multiple-cursors helm))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
