@@ -29,7 +29,10 @@
 ;Set hooks for dired-launch-mode
 (add-hook 'dired-mode-hook
           'dired-launch-mode)
-
+(smartparens-mode 1)
+(electric-operator-mode 1)
+(electric-pair-mode 1)
+(global-auto-complete-mode 1)
 ;Start which-key-mode
 (which-key-mode)
 

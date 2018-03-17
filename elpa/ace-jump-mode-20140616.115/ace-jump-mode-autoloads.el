@@ -3,8 +3,8 @@
 ;;; Code:
 (add-to-list 'load-path (directory-file-name (or (file-name-directory #$) (car load-path))))
 
-;;;### (autoloads nil "ace-jump-mode" "ace-jump-mode.el" (22996 860
-;;;;;;  656767 686000))
+;;;### (autoloads nil "ace-jump-mode" "ace-jump-mode.el" (23211 53771
+;;;;;;  250711 975000))
 ;;; Generated autoloads from ace-jump-mode.el
 
 (autoload 'ace-jump-mode-pop-mark "ace-jump-mode" "\

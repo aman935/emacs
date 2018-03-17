@@ -3,8 +3,8 @@
 ;;; Code:
 (add-to-list 'load-path (directory-file-name (or (file-name-directory #$) (car load-path))))
 
-;;;### (autoloads nil "dired-launch" "dired-launch.el" (22996 882
-;;;;;;  265768 591000))
+;;;### (autoloads nil "dired-launch" "dired-launch.el" (23211 53772
+;;;;;;  972749 739000))
 ;;; Generated autoloads from dired-launch.el
 
 (autoload 'dired-launch-command "dired-launch" "\
