@@ -37,8 +37,8 @@
 ;;          'electric-spacing-mode)
 (add-hook 'c++-mode-hook
           'electric-pair-mode)
-(add-hook 'c++-mode-hook
-          'smart-parens-mode)
+;;(add-hook 'c++-mode-hook
+;;          'smart-parens-mode)
 (add-hook 'c-mode-hook
           'my:ac-c-header-func)
 (add-hook 'c++-mode-hook

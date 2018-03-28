@@ -29,10 +29,14 @@
 ;Set hooks for dired-launch-mode
 (add-hook 'dired-mode-hook
           'dired-launch-mode)
-(smartparens-mode 1)
-(electric-operator-mode 1)
-(electric-pair-mode 1)
-(global-auto-complete-mode 1)
+(smartparens-mode t)
+(electric-operator-mode t)
+(electric-pair-mode t)
+(global-auto-complete-mode t)
+(auto-complete-mode t)
+(defun auto-complete-mode-maybe ()
+  "No maybe for you. Only AC!"
+  (auto-complete-mode 1))
 ;Start which-key-mode
 (which-key-mode)
 

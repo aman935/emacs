@@ -1,0 +1,6 @@
+/su:root@aman:/usr/local/nagios/etc/objects/templates.cfg
+/tmp/#!su:root@aman:!usr!local!nagios!etc!objects!templates.cfg#
+/su:root@aman:/usr/local/nagios/etc/objects/commands.cfg
+/tmp/#!su:root@aman:!usr!local!nagios!etc!objects!commands.cfg#
+/su:root@aman:/usr/local/nagios/etc/nagios.cfg
+/tmp/#!su:root@aman:!usr!local!nagios!etc!nagios.cfg#

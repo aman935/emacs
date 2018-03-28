@@ -4,8 +4,10 @@
 (setq mc/cmds-to-run-for-all
       '(
         helm-M-x
+        org-delete-char
         ))
 
 (setq mc/cmds-to-run-once
       '(
+        iedit-switch-to-mc-mode
         ))
